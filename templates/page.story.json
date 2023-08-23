@@ -1,0 +1,394 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "settings": {
+        "kicker": "Cosmetics from another era",
+        "kicker_size": 3,
+        "show_title": true,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-center",
+        "text_color": "text--primary",
+        "bg": "palette--dark bg--invert",
+        "width": "wrapper--narrow",
+        "padding_top": 64,
+        "padding_bottom": 36
+      }
+    },
+    "custom-content-2": {
+      "type": "section-custom-content",
+      "blocks": {
+        "custom-content-2-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Meet Our Founder, Sarah-Jane Bayliss",
+            "text": "<p>Childhood memories of cosmetics from another era kindled my passion. Thick waxy lipsticks, rich creams in pots and heavy scents in glass jars decorated my mothers dressing table. The pictures of glamour and elegance that she created has been my inspiration.<\/p><p>Still in childhood, my joy was mixing soil, grass and chalk from the garden, bargaining with my big brother to be the reluctant tester of these early concoctions!<\/p><p>Later in life, I suffered from skin allergies due to conventional hair and skin products. With the desire for healthy, strong and shiny hair, I created my own products from natural ingredients without harmful substances. The results were very successful.<\/p><p>It was time to clinically advance my formulas to professional and premium standards. With the encouragement of my sister and others, all convinced by the renewed health of my hair.<\/p><p>I sought out leading cosmetic chemists in Switzerland, who collaborate with the world's largest beauty brands to develop my vision for pioneering natural hair care. Over many years, applying their expertise with advanced techniques, our unique products were created.<\/p><p>The luxury of LEDA Swiss was born.<\/p><p>Sarah–Jane<\/p>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": "rgba(0,0,0,0)"
+          }
+        },
+        "319f81d9-0e67-4740-93a5-9cf83383e52f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sarah-jane.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "custom-content-2-0",
+        "319f81d9-0e67-4740-93a5-9cf83383e52f"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--full",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "cb90ecab-b789-420c-b245-fe98a3bcf75f": {
+      "type": "section-hero",
+      "blocks": {
+        "template--16123289862318__cb90ecab-b789-420c-b245-fe98a3bcf75f-1688056189e00588cb-0": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "COSMETICS FROM ANOTHER ERA",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "template--16123289862318__cb90ecab-b789-420c-b245-fe98a3bcf75f-1688056189e00588cb-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Our hair is the storyline of our lives",
+            "text_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289862318__cb90ecab-b789-420c-b245-fe98a3bcf75f-1688056189e00588cb-0",
+        "template--16123289862318__cb90ecab-b789-420c-b245-fe98a3bcf75f-1688056189e00588cb-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fluffy-clouds-are-colored-by-a-setting-sun.jpg",
+        "height": "use_pixels_500",
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--primary",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1b69f590-e827-49a2-88b5-c9818b8e6bf0": {
+      "type": "section-double",
+      "blocks": {
+        "template--16123289862318__1b69f590-e827-49a2-88b5-c9818b8e6bf0-1688645282b43d5b3f-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "1970",
+            "title": "From another era",
+            "text": "<p>The story begins in England in the 1970s with Jane, the mother of Sarah-Jane. Passionate about singing, opera and acting, Jane's elegance inspires her daughter's passion for cosmetics.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "template--16123289862318__1b69f590-e827-49a2-88b5-c9818b8e6bf0-1688645282b43d5b3f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jane-in-orpheus.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289862318__1b69f590-e827-49a2-88b5-c9818b8e6bf0-1688645282b43d5b3f-0",
+        "template--16123289862318__1b69f590-e827-49a2-88b5-c9818b8e6bf0-1688645282b43d5b3f-1"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "46ce678e-417a-4965-8d6f-be07652bc31d": {
+      "type": "section-double",
+      "blocks": {
+        "template--16123289862318__46ce678e-417a-4965-8d6f-be07652bc31d-1688645282b43d5b3f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/formulas-with-natural-ingredients_95d1d12c-b032-41e0-a2ad-ce26df3ca732.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "template--16123289862318__46ce678e-417a-4965-8d6f-be07652bc31d-1688645282b43d5b3f-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "TRIALS BEGIN",
+            "title": "Later years",
+            "text": "<p>Suffering from allergic reactions to skin and hair care products, Sarah–Jane started to create her own formulas with natural ingredients. Followed by years of trial and testing.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289862318__46ce678e-417a-4965-8d6f-be07652bc31d-1688645282b43d5b3f-1",
+        "template--16123289862318__46ce678e-417a-4965-8d6f-be07652bc31d-1688645282b43d5b3f-0"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fda564a8-fdf4-41ef-a910-2592a8002a03": {
+      "type": "section-double",
+      "blocks": {
+        "template--16123289862318__fda564a8-fdf4-41ef-a910-2592a8002a03-1688645282b43d5b3f-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "2019",
+            "title": "Passion becomes reality",
+            "text": "<p>Passionate about revolutionising plant-based hair care, the vision of LEDA Swiss was born. Scientific innovation, nature, luxury, and Switzerland continuously inspire the brand.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "template--16123289862318__fda564a8-fdf4-41ef-a910-2592a8002a03-1688645282b43d5b3f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leda-swiss-alps-organic-plants.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289862318__fda564a8-fdf4-41ef-a910-2592a8002a03-1688645282b43d5b3f-0",
+        "template--16123289862318__fda564a8-fdf4-41ef-a910-2592a8002a03-1688645282b43d5b3f-1"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "fb5b64a2-8817-4347-a69f-828efa54db92": {
+      "type": "section-double",
+      "blocks": {
+        "template--16123289862318__fb5b64a2-8817-4347-a69f-828efa54db92-1688645282b43d5b3f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/science-innovation-formulas-performance-natural-hair-care-story.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "template--16123289862318__fb5b64a2-8817-4347-a69f-828efa54db92-1688645282b43d5b3f-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "2020",
+            "title": "Scientific innovation",
+            "text": "<p>Clinical research is launched in Switzerland with world specialists in cosmetics. Scientific expertise combined with natural ingredients create pioneering vegan hair care formulas. Visible and positive results experienced after the use of LEDA Swiss products.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289862318__fb5b64a2-8817-4347-a69f-828efa54db92-1688645282b43d5b3f-1",
+        "template--16123289862318__fb5b64a2-8817-4347-a69f-828efa54db92-1688645282b43d5b3f-0"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "53eceb49-ad9e-4b17-ac27-1f458c4d46ce": {
+      "type": "section-double",
+      "blocks": {
+        "template--16123289862318__53eceb49-ad9e-4b17-ac27-1f458c4d46ce-1688645282b43d5b3f-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "Present",
+            "title": "LEDA Swiss",
+            "text": "<p>Rich in vitamins, amino acids, minerals, and antioxidants to nourish hair and scalp. An exclusive complex of bioactives, vegan keratin, and Swiss alpine extracts provides additional user benefits. A luxury range of revolutionary hair care products is launched.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "template--16123289862318__53eceb49-ad9e-4b17-ac27-1f458c4d46ce-1688645282b43d5b3f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leda-swiss-duo-set-hair-care-mobile_1.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289862318__53eceb49-ad9e-4b17-ac27-1f458c4d46ce-1688645282b43d5b3f-0",
+        "template--16123289862318__53eceb49-ad9e-4b17-ac27-1f458c4d46ce-1688645282b43d5b3f-1"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom-content-2",
+    "cb90ecab-b789-420c-b245-fe98a3bcf75f",
+    "1b69f590-e827-49a2-88b5-c9818b8e6bf0",
+    "46ce678e-417a-4965-8d6f-be07652bc31d",
+    "fda564a8-fdf4-41ef-a910-2592a8002a03",
+    "fb5b64a2-8817-4347-a69f-828efa54db92",
+    "53eceb49-ad9e-4b17-ac27-1f458c4d46ce"
+  ]
+}

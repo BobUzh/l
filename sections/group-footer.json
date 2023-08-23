@@ -1,0 +1,181 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "ecc26228-ea3c-40a4-bd62-447cbe6c4817": {
+      "type": "section-logos",
+      "disabled": true,
+      "blocks": {
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": false,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "24c769b5-dfd1-4405-a8eb-bed5b190575e": {
+          "type": "logo_image",
+          "settings": {
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-vegan.png",
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        },
+        "01767283-fe47-4453-9fca-691dc19b5d37": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-switzerland.png",
+            "link": "",
+            "new_tab": true,
+            "width": 140,
+            "spacing": 50
+          }
+        }
+      },
+      "block_order": [
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-0",
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-1",
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-2",
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-3",
+        "24c769b5-dfd1-4405-a8eb-bed5b190575e",
+        "sections--16123290189998__ecc26228-ea3c-40a4-bd62-447cbe6c4817-16881251760ceb5831-4",
+        "01767283-fe47-4453-9fca-691dc19b5d37"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "enable_marquee": false,
+        "marquee_speed": 30,
+        "width": "wrapper--none",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "linklist-1": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "customer-service",
+            "title": "",
+            "accordion_default": ""
+          }
+        },
+        "linklist-2": {
+          "type": "linklist",
+          "settings": {
+            "linklist": "footer",
+            "title": "",
+            "accordion_default": ""
+          }
+        },
+        "text-3": {
+          "type": "text",
+          "settings": {
+            "title": "ABOUT LEDA SWISS",
+            "text": "<p>Premium hair care combining scientific research and nature. Our premium formulas are exclusively produced in Switzerland and meet worldwide ISO 16128 standards.<\/p>",
+            "text_size": 4,
+            "accordion_default": ""
+          }
+        },
+        "social": {
+          "type": "social",
+          "disabled": true,
+          "settings": {
+            "title": "Stay in touch.",
+            "text_size": 8,
+            "enable_follow_on_shop": true
+          }
+        },
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "show_image": false,
+            "wh_ratio": 2,
+            "newsletter_enable": true,
+            "recaptcha_enabled": false,
+            "kicker": "",
+            "heading": "Stay in touch.",
+            "richtext": "<p>Exclusive offers straight to your inbox<\/p>",
+            "text_size": 5,
+            "background_color": "#fddda0",
+            "text_color_value": "#00463f"
+          }
+        }
+      },
+      "block_order": [
+        "linklist-1",
+        "linklist-2",
+        "text-3",
+        "social",
+        "newsletter"
+      ],
+      "settings": {
+        "menu_position": "left",
+        "logo_max_limit": 120,
+        "width": "wrapper",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "subfooter": {
+      "type": "subfooter",
+      "settings": {
+        "footer_secondary_linklist": "",
+        "footer_payment_enable": true,
+        "footer_social_enable": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true,
+        "width": "wrapper--full",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "ecc26228-ea3c-40a4-bd62-447cbe6c4817",
+    "footer",
+    "subfooter"
+  ]
+}

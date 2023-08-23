@@ -1,0 +1,892 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "kicker": "Natural hair care elevated by clinical research",
+        "kicker_size": 3,
+        "show_title": true,
+        "title_size": 8,
+        "show_content": true,
+        "content_size": 5,
+        "align_text": "text-center",
+        "text_color": "text--primary",
+        "bg": "palette--dark bg--invert",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8ae78d21-2cda-44f0-8483-1b70f5de456a": {
+      "type": "section-hero",
+      "blocks": {
+        "template--16141540950190__8ae78d21-2cda-44f0-8483-1b70f5de456a-kicker-1": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "NATURAL HAIR CARE ELEVATED BY CLINICAL RESEARCH",
+            "enable_line": true,
+            "text_size": 3
+          }
+        },
+        "template--16141540950190__8ae78d21-2cda-44f0-8483-1b70f5de456a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Ingredients of Natural Origin",
+            "text_size": 10
+          }
+        },
+        "template--16141540950190__8ae78d21-2cda-44f0-8483-1b70f5de456a-button-1": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "Shop now",
+            "link_1": "",
+            "button_size_1": "btn--long",
+            "button_style_1": "btn",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "template--16141540950190__8ae78d21-2cda-44f0-8483-1b70f5de456a-kicker-1",
+        "template--16141540950190__8ae78d21-2cda-44f0-8483-1b70f5de456a-heading-1",
+        "template--16141540950190__8ae78d21-2cda-44f0-8483-1b70f5de456a-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-arsham-haghani-3445219_1_252fb068-5053-46e7-861d-0c855e8e8cc2.jpg",
+        "height": "use_image",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "13481c8c-7d81-496f-b267-be3d538a92ef": {
+      "type": "section-custom-content",
+      "blocks": {
+        "1858126e-a96b-4081-a7e9-3bd60e174cb8": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Holistic Hair Care",
+            "text": "<p>Breakage, dull, brittle, dry, tangly and frizzy hair can often be signs and symptoms of hair damage. LEDA Swiss products are formulated with plant based ingredients and vegan bioactives.<\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "69e63348-0d00-4139-a688-247032cecfbc": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Scientific Innovation",
+            "text": "<p>To help improve hair condition and styling results, LEDA Swiss formulas receive a super boost with these innovative vegan bioactives that meet clean beauty standards. Combined with oils offering the highest nutrient-dense benefits for hair.<\/p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "1858126e-a96b-4081-a7e9-3bd60e174cb8",
+        "69e63348-0d00-4139-a688-247032cecfbc"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "#f7f5f4",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2c1051c2-f510-478a-be76-f08559d8479c": {
+      "type": "section-custom-content",
+      "blocks": {
+        "21265a17-6330-4a96-8986-5c8784b3efa9": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<h3>Vegan Keratin<\/h3><p>Derived from plants, offering similar benefits to conventional keratin, to help increase hair hydration, smooth hair and reduce frizz. High protein quinoa, lentil, and chickpea peptides, this is non–GMO and gluten–free.<\/p><h3>Vegan Emollient<\/h3><p>To help repair hair damaged by heat styling and hair colouring, this is a highly effective active ingredient. The Cell Membrane Complex (CMC) is a substance found between the cortical cells in the intercuticle cortex. A CMC like substance to help condition and maintain healthy hair.<\/p>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "f15cc4cc-3d70-4b02-bd45-722b9d0bdacf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_78.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "21265a17-6330-4a96-8986-5c8784b3efa9",
+        "f15cc4cc-3d70-4b02-bd45-722b9d0bdacf"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "18adb776-cfab-4e64-b2d1-25754cd7e02a": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16123289796782__18adb776-cfab-4e64-b2d1-25754cd7e02a-168803955202787aa1-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Holistic Hair Care",
+            "text_size": 8
+          }
+        },
+        "template--16123289796782__18adb776-cfab-4e64-b2d1-25754cd7e02a-168803955202787aa1-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Breakage, dull, brittle, dry, tangly and frizzy hair can often be signs and symptoms of hair damage. LEDA Swiss products are formulated with plant based ingredients and vegan bioactives.<\/p><p>Our ethos is to holistically care for the health of your hair, for the needs of your hair today and the long term. By taking care of the overall health of your hair, you are more likely to benefit from increased hair strength, hydration, and smoothness. This then leads to healthy growth and reduced hair loss.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289796782__18adb776-cfab-4e64-b2d1-25754cd7e02a-168803955202787aa1-1",
+        "template--16123289796782__18adb776-cfab-4e64-b2d1-25754cd7e02a-168803955202787aa1-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "30466df3-af61-411f-b96d-a9c7e3ba8242": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16123289796782__30466df3-af61-411f-b96d-a9c7e3ba8242-1688045515b8e3801b-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Scientific Innovation to Naturally Boost Your Hair",
+            "text_size": 8
+          }
+        },
+        "template--16123289796782__30466df3-af61-411f-b96d-a9c7e3ba8242-1688045515b8e3801b-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>To help improve hair condition and styling results, LEDA Swiss formulas receive a super boost with these innovative vegan bioactives that meet clean beauty standards. Combined with oils offering the highest nutrient-dense benefits for hair.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289796782__30466df3-af61-411f-b96d-a9c7e3ba8242-1688045515b8e3801b-1",
+        "template--16123289796782__30466df3-af61-411f-b96d-a9c7e3ba8242-1688045515b8e3801b-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "a2e3cbc3-4caa-4792-9ab7-12b91fe7f8eb": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--16123289796782__a2e3cbc3-4caa-4792-9ab7-12b91fe7f8eb-1688118486b88c387e-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Vegan Keratin",
+            "text": "<p>Derived from plants, offering similar benefits to conventional keratin, to help increase hair hydration, smooth hair and reduce frizz. High protein quinoa, lentil, and chickpea peptides, this is non–GMO and gluten–free.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "template--16123289796782__a2e3cbc3-4caa-4792-9ab7-12b91fe7f8eb-1688118486b88c387e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vegan-keratin-help-increase-hair-hydration.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": true,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "template--16123289796782__a2e3cbc3-4caa-4792-9ab7-12b91fe7f8eb-1688118486b88c387e-0",
+        "template--16123289796782__a2e3cbc3-4caa-4792-9ab7-12b91fe7f8eb-1688118486b88c387e-1"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5db782cc-ca12-4b72-9907-0f5eba802bfd": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__5db782cc-ca12-4b72-9907-0f5eba802bfd-1688127453c720ca7d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vegan-emollient-help-repair-damaged-hair.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "template--16124224536750__5db782cc-ca12-4b72-9907-0f5eba802bfd-1688127453c720ca7d-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Vegan Emollient",
+            "text": "<p>To help repair hair damaged by heat styling and hair colouring, this is a highly effective active ingredient. The Cell Membrane Complex (CMC) is a substance found between the cortical cells in the intercuticle cortex. A CMC like substance to help condition and maintain healthy hair.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__5db782cc-ca12-4b72-9907-0f5eba802bfd-1688127453c720ca7d-1",
+        "template--16124224536750__5db782cc-ca12-4b72-9907-0f5eba802bfd-1688127453c720ca7d-0"
+      ],
+      "settings": {
+        "height": "use_image",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "05070609-c3da-440a-a780-2d686367d0ae": {
+      "type": "section-columns",
+      "blocks": {
+        "template--16124224536750__05070609-c3da-440a-a780-2d686367d0ae-1688127555e20aa529-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/organic-rhododendron-ferrugineum-ingredient.jpg",
+            "title": "ORGANIC RHODODENDRON FERRUGINEUM",
+            "text": "<p><strong>Hair Elasticity and Strength.<\/strong><\/p><p>Rhododendron Ferrugineum (Alpenrose) a Swiss plant with deep pink purple flowers that grows high in the Swiss Alps. Rich in flavonoids, volatile oil and tannins.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--16124224536750__05070609-c3da-440a-a780-2d686367d0ae-1688127555e20aa529-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/calendula-officinalis-asteraceae-ingredient.jpg",
+            "title": "CALENDULA OFFICINALIS ASTERACEAE",
+            "text": "<p><strong>Reduce Frizz, and Calm Split–ends.<\/strong><\/p><p>Calendula Officinalis Asteraceae (Marigold) can protect hair cuticles Key benefits: emollients to stimulate hair growth and moisturise; anti–inflammatory and antioxidant compounds.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--16124224536750__05070609-c3da-440a-a780-2d686367d0ae-1688127555e20aa529-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/equisetum-arvense-ingredient.jpg",
+            "title": "EQUISETUM ARVENSE",
+            "text": "<p><strong>Healthy, strong & hair growth.<\/strong><\/p><p>Equisetum arvense (Horsetail) is a herb shown to be rich in minerals such as silicic acid (natural silicone like property), aluminium, potassium chloride, manganese, tannins and flavonoids.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__05070609-c3da-440a-a780-2d686367d0ae-1688127555e20aa529-0",
+        "template--16124224536750__05070609-c3da-440a-a780-2d686367d0ae-1688127555e20aa529-1",
+        "template--16124224536750__05070609-c3da-440a-a780-2d686367d0ae-1688127555e20aa529-2"
+      ],
+      "settings": {
+        "title": "Swiss plant extracts",
+        "bg": "palette--dark bg--invert",
+        "align_text": "text-left",
+        "scale_image": true,
+        "wh_ratio": 1,
+        "grid_large": 3,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "progress_bar_mobile": true,
+        "width": "wrapper",
+        "padding_top": 150,
+        "padding_bottom": 130
+      }
+    },
+    "8b3a326c-4f1f-4a07-91b4-c27e600a826f": {
+      "type": "section-hero",
+      "blocks": {
+        "template--16141540950190__8b3a326c-4f1f-4a07-91b4-c27e600a826f-kicker-1": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "NATURAL HAIR CARE ELEVATED BY CLINICAL RESEARCH",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "template--16141540950190__8b3a326c-4f1f-4a07-91b4-c27e600a826f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "High Quality Natural And Organic Oils",
+            "text_size": 10
+          }
+        },
+        "template--16141540950190__8b3a326c-4f1f-4a07-91b4-c27e600a826f-text-1": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Organic plant extracts cultivated in Switzerland have been carefully selected to naturally strengthen LEDA Swiss hair care products.<\/p><p>Committed to Clean–Label guidelines, the properties from each plant are gently extracted with traceability back to the field. Certified sustainable production methods meet ISO 14001 standards and Swiss organic standards.<\/p>",
+            "text_size": 4
+          }
+        }
+      },
+      "block_order": [
+        "template--16141540950190__8b3a326c-4f1f-4a07-91b4-c27e600a826f-kicker-1",
+        "template--16141540950190__8b3a326c-4f1f-4a07-91b4-c27e600a826f-heading-1",
+        "template--16141540950190__8b3a326c-4f1f-4a07-91b4-c27e600a826f-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/high-quality-natural-and-organic-oils_cf64df91-a5db-4512-b110-56357044fccf.jpg",
+        "height": "use_image",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ee1cdad4-a4d3-4548-be61-b32511b34c95": {
+      "type": "section-double",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__ee1cdad4-a4d3-4548-be61-b32511b34c95-1688127453c720ca7d-0": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "High quality natural and organic oils",
+            "text": "<p>Organic plant extracts cultivated in Switzerland have been carefully selected to naturally strengthen LEDA Swiss hair care products.<br\/><br\/>Committed to <strong>Clean–Label guidelines<\/strong>, the properties from each plant are gently extracted with traceability back to the field. Certified sustainable production methods meet ISO 14001 standards and Swiss organic standards.<\/p>",
+            "font_size": 6,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "RESPONSIBLE LUXURY AT LEDA SWISS ▸",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "template--16124224536750__ee1cdad4-a4d3-4548-be61-b32511b34c95-1688127453c720ca7d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/high-quality-natural-and-organic-oils.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__ee1cdad4-a4d3-4548-be61-b32511b34c95-1688127453c720ca7d-0",
+        "template--16124224536750__ee1cdad4-a4d3-4548-be61-b32511b34c95-1688127453c720ca7d-1"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "52fc8566-1ff2-4cd7-9396-37866538123e": {
+      "type": "section-richtext",
+      "blocks": {
+        "f772349e-1ac9-44d5-8f5f-90878f6ae7f3": {
+          "type": "icon-text",
+          "settings": {
+            "kicker_size": 3,
+            "heading_size": 8,
+            "text_size": 5,
+            "items_per_row": "3",
+            "icon_color": "#4b4b4b",
+            "icon_size": 50,
+            "icon_name_1": "icon-basket-return",
+            "icon_image_1": "shopify:\/\/shop_images\/icon-argan-oil.png",
+            "icon_kicker_1": "",
+            "icon_heading_1": "Argan oil",
+            "icon_text_1": "<p>Rich in vitamin E, essential fatty acids and antioxidants to moisturise and nourish the hair to help reduce frizziness, smooth hair and boost shine.<\/p>",
+            "icon_name_2": "icon-shipment-world",
+            "icon_image_2": "shopify:\/\/shop_images\/icon-jojoba-oil.png",
+            "icon_kicker_2": "",
+            "icon_heading_2": "Jojoba Oil",
+            "icon_text_2": "<p>Rich in vitamins C, B, E, copper, and zinc to strengthen your hair and prevent breakage. Can also be helpful to treat dandruff, dry and itchy scalps.<\/p>",
+            "icon_name_3": "none",
+            "icon_image_3": "shopify:\/\/shop_images\/icon-avocado-oil.png",
+            "icon_kicker_3": "",
+            "icon_heading_3": "Avocado Oil",
+            "icon_text_3": "<p>Rich in antioxidants, minerals, essential fatty acids, biotin, vitamins A, B–5, and E to help seal cuticle cells, moisturise and strengthen your hair.<\/p>",
+            "icon_name_4": "none",
+            "icon_image_4": "shopify:\/\/shop_images\/icon-apricot-kernel-oil.png",
+            "icon_kicker_4": "",
+            "icon_heading_4": "Apricot Kernel Oil",
+            "icon_text_4": "<p>Rich in vitamins A, B1, B2, B6, B17 and E. Also high in omega–9 fatty acids (linoleic and oleic acids), to soften your hair and seal in moisture.<\/p>",
+            "icon_name_5": "none",
+            "icon_image_5": "shopify:\/\/shop_images\/icon-cocoa-seed-butter.png",
+            "icon_kicker_5": "",
+            "icon_heading_5": "Cocoa Seed Butter",
+            "icon_text_5": "<p>Rich in Oleic and Stearic acids that offers keratin protection from hair breakage, heat damage and to repair split ends. With a luxurious creamy feel, it is an ideal deep conditioner and protective treatment. Its emollient texture can also help to combat frizz.<\/p>",
+            "icon_name_6": "none",
+            "icon_image_6": "shopify:\/\/shop_images\/icon-organic-shea-butter.png",
+            "icon_kicker_6": "",
+            "icon_heading_6": "Organic Shea Butter",
+            "icon_text_6": "<p>Rich in linoleic and oleic fatty acids; vitamins A, E, and F to moisture, reduce dry and irritated scalp to smooth and give sheen to flyaway ends. Healthy hair starts at the roots and shea butter can help to calm an irritated, flaking or itchy scalp to promote hair growth.<\/p>"
+          }
+        },
+        "6473c335-53f3-4a5b-b1a8-52f7ebafbb10": {
+          "type": "icon-text",
+          "settings": {
+            "kicker_size": 3,
+            "heading_size": 8,
+            "text_size": 5,
+            "items_per_row": "3",
+            "icon_color": "#4B4B4B",
+            "icon_size": 50,
+            "icon_name_1": "icon-basket-return",
+            "icon_image_1": "shopify:\/\/shop_images\/icon-swiss-plant-extracts.png",
+            "icon_kicker_1": "",
+            "icon_heading_1": "Swiss Plant Extracts",
+            "icon_text_1": "<p>Naturally infused Leda Swiss hair care products with even more nutrients in replacement of artificial substances.<\/p>",
+            "icon_name_2": "none",
+            "icon_kicker_2": "",
+            "icon_heading_2": "",
+            "icon_text_2": "",
+            "icon_name_3": "none",
+            "icon_kicker_3": "",
+            "icon_heading_3": "",
+            "icon_text_3": "",
+            "icon_name_4": "none",
+            "icon_kicker_4": "",
+            "icon_heading_4": "",
+            "icon_text_4": "",
+            "icon_name_5": "none",
+            "icon_kicker_5": "",
+            "icon_heading_5": "",
+            "icon_text_5": "",
+            "icon_name_6": "none",
+            "icon_kicker_6": "",
+            "icon_heading_6": "",
+            "icon_text_6": ""
+          }
+        }
+      },
+      "block_order": [
+        "f772349e-1ac9-44d5-8f5f-90878f6ae7f3",
+        "6473c335-53f3-4a5b-b1a8-52f7ebafbb10"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "92465a5a-afdd-4779-ab1b-cf6fb81330f2": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__92465a5a-afdd-4779-ab1b-cf6fb81330f2-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Argan Oil",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__92465a5a-afdd-4779-ab1b-cf6fb81330f2-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in vitamin E, essential fatty acids and antioxidants to moisturise and nourish the hair to help reduce frizziness, smooth hair and boost shine.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__92465a5a-afdd-4779-ab1b-cf6fb81330f2-1688128768d70582c3-1",
+        "template--16124224536750__92465a5a-afdd-4779-ab1b-cf6fb81330f2-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "98af374e-075e-4c92-a742-7ce1192b945a": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__98af374e-075e-4c92-a742-7ce1192b945a-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Organic Jojoba Oil",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__98af374e-075e-4c92-a742-7ce1192b945a-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in vitamins C, B, E, copper, and zinc to strengthen your hair and prevent breakage. Can also be helpful to treat dandruff, dry and itchy scalps.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__98af374e-075e-4c92-a742-7ce1192b945a-1688128768d70582c3-1",
+        "template--16124224536750__98af374e-075e-4c92-a742-7ce1192b945a-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5703e219-b930-45e9-a05e-ded0d65f58fb": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__5703e219-b930-45e9-a05e-ded0d65f58fb-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Organic Avocado Oil",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__5703e219-b930-45e9-a05e-ded0d65f58fb-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in antioxidants, minerals, essential fatty acids, biotin, vitamins A, B–5, and E to help seal cuticle cells, moisturise and strengthen your hair.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__5703e219-b930-45e9-a05e-ded0d65f58fb-1688128768d70582c3-1",
+        "template--16124224536750__5703e219-b930-45e9-a05e-ded0d65f58fb-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a6519d5d-51aa-4886-bbd2-d2b142dae76b": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__a6519d5d-51aa-4886-bbd2-d2b142dae76b-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Apricot Kernel Oil",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__a6519d5d-51aa-4886-bbd2-d2b142dae76b-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in vitamins A, B1, B2, B6, B17 and E. Also high in omega–9 fatty acids (linoleic and oleic acids), to soften your hair and seal in moisture.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__a6519d5d-51aa-4886-bbd2-d2b142dae76b-1688128768d70582c3-1",
+        "template--16124224536750__a6519d5d-51aa-4886-bbd2-d2b142dae76b-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "27dc1f01-0a0a-42eb-82ca-3f232587c4ff": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__27dc1f01-0a0a-42eb-82ca-3f232587c4ff-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cocoa Seed Butter",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__27dc1f01-0a0a-42eb-82ca-3f232587c4ff-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in Oleic and Stearic acids that offers keratin protection from hair breakage, heat damage and to repair split ends. With a luxurious creamy feel, it is an ideal deep conditioner and protective treatment. Its emollient texture can also help to combat frizz.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__27dc1f01-0a0a-42eb-82ca-3f232587c4ff-1688128768d70582c3-1",
+        "template--16124224536750__27dc1f01-0a0a-42eb-82ca-3f232587c4ff-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "33803cb5-e837-490f-9ca3-5cac4e9470c2": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__33803cb5-e837-490f-9ca3-5cac4e9470c2-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Organic Shea Butter",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__33803cb5-e837-490f-9ca3-5cac4e9470c2-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rich in linoleic and oleic fatty acids; vitamins A, E, and F to moisture, reduce dry and irritated scalp to smooth and give sheen to flyaway ends. Healthy hair starts at the roots and shea butter can help to calm an irritated, flaking or itchy scalp to promote hair growth.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__33803cb5-e837-490f-9ca3-5cac4e9470c2-1688128768d70582c3-1",
+        "template--16124224536750__33803cb5-e837-490f-9ca3-5cac4e9470c2-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9bcdfdc9-48f8-4da6-bf52-30db887b2772": {
+      "type": "section-richtext",
+      "disabled": true,
+      "blocks": {
+        "template--16124224536750__9bcdfdc9-48f8-4da6-bf52-30db887b2772-1688128768d70582c3-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Swiss Plant Extracts",
+            "text_size": 8
+          }
+        },
+        "template--16124224536750__9bcdfdc9-48f8-4da6-bf52-30db887b2772-1688128768d70582c3-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Naturally infused Leda Swiss hair care products with even more nutrients in replacement of artificial substances.<\/p>",
+            "text_size": 6,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "template--16124224536750__9bcdfdc9-48f8-4da6-bf52-30db887b2772-1688128768d70582c3-1",
+        "template--16124224536750__9bcdfdc9-48f8-4da6-bf52-30db887b2772-1688128768d70582c3-2"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8ae78d21-2cda-44f0-8483-1b70f5de456a",
+    "13481c8c-7d81-496f-b267-be3d538a92ef",
+    "2c1051c2-f510-478a-be76-f08559d8479c",
+    "18adb776-cfab-4e64-b2d1-25754cd7e02a",
+    "30466df3-af61-411f-b96d-a9c7e3ba8242",
+    "a2e3cbc3-4caa-4792-9ab7-12b91fe7f8eb",
+    "5db782cc-ca12-4b72-9907-0f5eba802bfd",
+    "05070609-c3da-440a-a780-2d686367d0ae",
+    "8b3a326c-4f1f-4a07-91b4-c27e600a826f",
+    "ee1cdad4-a4d3-4548-be61-b32511b34c95",
+    "52fc8566-1ff2-4cd7-9396-37866538123e",
+    "92465a5a-afdd-4779-ab1b-cf6fb81330f2",
+    "98af374e-075e-4c92-a742-7ce1192b945a",
+    "5703e219-b930-45e9-a05e-ded0d65f58fb",
+    "a6519d5d-51aa-4886-bbd2-d2b142dae76b",
+    "27dc1f01-0a0a-42eb-82ca-3f232587c4ff",
+    "33803cb5-e837-490f-9ca3-5cac4e9470c2",
+    "9bcdfdc9-48f8-4da6-bf52-30db887b2772"
+  ]
+}
