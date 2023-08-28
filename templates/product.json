@@ -155,8 +155,21 @@
         "padding_bottom": 100
       }
     },
+    "c578fcf3-e88d-4bec-8920-7076b5028f5f": {
+      "type": "section-before-after",
+      "settings": {
+        "bg": "shopify:\/\/shop_images\/sharon-pittaway-4_hFxTsmaO4-unsplash_copy_1_1.png",
+        "before": "shopify:\/\/shop_images\/Rectangle_96.png",
+        "after": "shopify:\/\/shop_images\/Rectangle_97.png",
+        "name": "98% Natural Ingredients, 100% Made in Switzerland",
+        "title": "Inspired by Nature, <br>Backed by Science",
+        "url": "",
+        "btn-name": "LEARN MORE"
+      }
+    },
     "7c5781fa-2fe9-4d5a-a121-a11e6a6898dd": {
       "type": "section-ingredients",
+      "disabled": true,
       "settings": {
         "bg": "shopify:\/\/shop_images\/sharon-pittaway-4_hFxTsmaO4-unsplash_copy_1_1.png",
         "name": "98% Natural Ingredients, 100% Made in Switzerland",
@@ -170,7 +183,7 @@
       "type": "about-the-product",
       "settings": {
         "name": "about the product",
-        "img": "shopify:\/\/shop_images\/kaboompics_the-back-of-a-young-woman-medium-length-brown-straight-hair-29182_1_1.png",
+        "img": "shopify:\/\/shop_images\/kaboompics_the-back-of-a-young-woman-medium-length-brown-straight-hair-29182_2.png",
         "title": "Let your hair speak volumes.",
         "text": "<p>Envision a product that transcends conventional quick fixes, meticulously delivering comprehensive care to rejuvenate your hair's innate vibrancy with a touch of luxury.<\/p><p>The feather-light Revitalise Hair Serum, brimming with antioxidants, omega fatty acids, Swiss plant extracts, and potent bioactives, revolutionizes your daily hair regimen, fostering amplified volume and vigorous growth.<\/p>"
       }
@@ -181,7 +194,7 @@
         "d86c3fe9-b42b-45a5-b622-a6461412f282": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mask_group_3.png",
+            "img": "shopify:\/\/shop_images\/Foundational.png",
             "title": "<p>Foundational<\/p>",
             "text": "Tending to your hair's health in a holistic manner - from the root's depth to the tip's summit."
           }
@@ -189,7 +202,7 @@
         "bd57877e-fee8-403f-89e1-fb783c574f81": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mask_group_4.png",
+            "img": "shopify:\/\/shop_images\/Higher_Concentration.png",
             "title": "<p>Higher Concentration<\/p>",
             "text": "An intensely nourishing formulation, not diluted but enriched, necessitating only a modest amount for profound effects."
           }
@@ -197,7 +210,7 @@
         "0c261efa-0202-463d-b95f-88b4ae7a7761": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mask_group_5.png",
+            "img": "shopify:\/\/shop_images\/Clean_Natural.png",
             "title": "<p>Clean & Natural<\/p>",
             "text": "Free of harsh chemicals and adjuvants, infused with the gentlest ingredients, suitable for sensitive or allergic individuals."
           }
@@ -460,42 +473,42 @@
         "83cc4ebf-9cd7-4fd0-8019-79ffa84d4693": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon-ingredients-alt.png",
+            "img": "shopify:\/\/shop_images\/Vector_5.png",
             "text": "98% Natural original ingredients"
           }
         },
         "f05bc2ef-c04a-4c49-a9ae-d55067e7b7e5": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon-organic-plant-extracts-alt.png",
-            "text": "organic swiss <br>plant extract"
+            "img": "shopify:\/\/shop_images\/Vector_6.png",
+            "text": "organic swiss plant extract"
           }
         },
         "d8df8b1a-5d6d-4180-b457-7350cb260101": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon-safety-alt.png",
-            "text": "independently safety tested"
+            "img": "shopify:\/\/shop_images\/Vector_7.png",
+            "text": "independently <br>safety tested"
           }
         },
         "9ec87303-e72f-4f9c-af9a-3ce431882883": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon-bunny-alt.png",
+            "img": "shopify:\/\/shop_images\/Vector_8.png",
             "text": "cruelty <br> free"
           }
         },
         "de59c382-8fda-4c41-a44f-e4f85d949c4d": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon-vegan-alt.png",
+            "img": "shopify:\/\/shop_images\/OBJECTS_1.png",
             "text": "vegan"
           }
         },
         "063bc2be-8703-461a-bf01-2e625e2b3ba0": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/icon-swiss-alt_c489a0a6-21c9-4f76-9c49-f88ceb7affb2.png",
+            "img": "shopify:\/\/shop_images\/Group_19_1.png",
             "text": "made in <br>switzerland"
           }
         }
@@ -623,6 +636,7 @@
   },
   "order": [
     "main",
+    "c578fcf3-e88d-4bec-8920-7076b5028f5f",
     "7c5781fa-2fe9-4d5a-a121-a11e6a6898dd",
     "83ea2edf-318a-4b0c-b38e-68c44c78aa7d",
     "be5f4981-8cc6-41a0-9b6c-717465138456",

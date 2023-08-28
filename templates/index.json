@@ -68,42 +68,42 @@
         "88ad326f-63a7-4df7-bba8-c159d6feb973": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Vector.png",
+            "img": "shopify:\/\/shop_images\/Vector_9.png",
             "text": "98% Natural <br> original ingredients"
           }
         },
         "6d2b9f30-83b8-4892-b72b-7339626b86af": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Vector_1.png",
+            "img": "shopify:\/\/shop_images\/Vector_10.png",
             "text": "organic swiss <br>plant extract"
           }
         },
         "a0c183a7-8054-4f65-92cf-144ead1d6bbf": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Vector_2.png",
+            "img": "shopify:\/\/shop_images\/Vector_11.png",
             "text": "independently <br>safety tested"
           }
         },
         "312b6a34-2a5c-4697-8b2b-f2c0a2de161c": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Vector_3.png",
+            "img": "shopify:\/\/shop_images\/Vector_12.png",
             "text": "cruelty<br> free"
           }
         },
         "d92cc781-6009-492c-896b-3496d3733a0b": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/OBJECTS.png",
+            "img": "shopify:\/\/shop_images\/OBJECTS_2.png",
             "text": "vegan"
           }
         },
         "8419d42e-650b-4e91-b429-5ef17be6cee3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Group_19.png",
+            "img": "shopify:\/\/shop_images\/Group_19_2.png",
             "text": "made in <br> switzerland"
           }
         }
@@ -117,8 +117,8 @@
         "8419d42e-650b-4e91-b429-5ef17be6cee3"
       ],
       "settings": {
-        "bg_color": "#00463F",
-        "text_color": "#FFFFFF"
+        "bg_color": "#00463f",
+        "text_color": "#ffffff"
       }
     },
     "fdff8f60-a5f6-4513-be58-fda8c731e47b": {
@@ -183,7 +183,7 @@
         "243ba72e-fc8b-46a6-abc6-73e7cb1569e3": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mask_group.png",
+            "img": "shopify:\/\/shop_images\/Group_57.png",
             "title": "The Splendor <br>of Luxury Hair-Care",
             "text": "Luxury hair care embodies a commitment to excellence: Our products transcend the ordinary to deliver exceptional results and are designed to pamper your hair, unveiling its true radiance and grace."
           }
@@ -191,7 +191,7 @@
         "d3635711-20ab-4430-8747-26b8543069c1": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mask_group_1.png",
+            "img": "shopify:\/\/shop_images\/Group_56.png",
             "title": "A Rich Composition <br> of Organic Ingredients",
             "text": "Nature's abundance takes center stage as we delve into the realm of organic hair care. Guided by the blueprint of our mother earth, our timeless formulations deliver effective results without harming your body."
           }
@@ -199,7 +199,7 @@
         "1aaa7d68-8251-4aab-b8ac-5c8d5e697ad8": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Mask_group_2.png",
+            "img": "shopify:\/\/shop_images\/Group_54.png",
             "title": "The Precision <br> of Swiss Science & Production",
             "text": "LEDA embodies meticulous craftsmanship, where innovation and tradition intertwine to create exceptional formulations. Our Swiss quality guarantees world-leading science and performance you can trust."
           }
@@ -229,6 +229,7 @@
         "44a6a47f-81c6-48bc-9954-479bde115bcf": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Ellipse_4.png",
             "range": 5,
             "text": "I combine the Nourish Cream and Revitalise Serum, they work great when styling my hair. It looks shiny, feels smooth, and smells amazing throughout the day!",
             "name": "SLAV, SWITZERLAND"
@@ -237,6 +238,7 @@
         "01e47a59-9312-492b-a2a4-2daeff5107af": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Ellipse_4_1.png",
             "range": 5,
             "text": "The products have a nice texture and are so easy to apply. What I love the most about them is how natural they are. They're also a good duo for styling my Afro, and the cream specifically is a great moisturizer.",
             "name": "LAURIANE, uk"
@@ -245,6 +247,7 @@
         "e8482bc7-571e-4b1f-a583-dc5a417ed857": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Ellipse_4_2.png",
             "range": 5,
             "text": "After using the products just a few times, I could already see how much stronger my hair has become. I haven't stopped using them since then. I prefer using both together, but I also use the cream separately more often as it prevents my hair from getting dry.",
             "name": "YULIA, SWITZERLAND"
@@ -253,6 +256,7 @@
         "2bfbfb7d-5b9e-49b1-946f-6598b63f0aaa": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Ellipse_4.png",
             "range": 5,
             "text": "I combine the Nourish Cream and Revitalise Serum, they work great when styling my hair. It looks shiny, feels smooth, and smells amazing throughout the day!",
             "name": "SLAV, SWITZERLAND"
@@ -261,6 +265,7 @@
         "6bc9fd84-d208-4648-befd-ef9a5005f593": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Ellipse_4_1.png",
             "range": 5,
             "text": "The products have a nice texture and are so easy to apply. What I love the most about them is how natural they are. They're also a good duo for styling my Afro, and the cream specifically is a great moisturizer.",
             "name": "LAURIANE, uk"
@@ -269,6 +274,7 @@
         "4338b65e-8181-4ab1-878d-4679a4cce871": {
           "type": "item",
           "settings": {
+            "img": "shopify:\/\/shop_images\/Ellipse_4_2.png",
             "range": 5,
             "text": "After using the products just a few times, I could already see how much stronger my hair has become. I haven't stopped using them since then. I prefer using both together, but I also use the cream separately more often as it prevents my hair from getting dry.",
             "name": "YULIA, SWITZERLAND"
@@ -284,7 +290,7 @@
         "4338b65e-8181-4ab1-878d-4679a4cce871"
       ],
       "settings": {
-        "bg": "shopify:\/\/shop_images\/a-model-in-summer-fashion-with-grey-backdrop.jpg",
+        "bg": "shopify:\/\/shop_images\/ali-pazani-3w14X-Yxffk-unsplash_2_1.jpg",
         "name": "TESTIMONIALS"
       }
     },

@@ -951,6 +951,18 @@
   z-index:0;
   
 }
+.my-testimonial .testi-foto{
+  display:flex;
+  justify-content:center;
+}
+.my-testimonial .testi-foto img{
+  position:static;
+  border-radius:50%;
+  width:clamp(48px,5.208vw, 100px);
+  height:clamp(48px,5.208vw, 100px);
+  object-fit:cover;
+  z-index:1;
+}
 .my-testimonial img{
   position:absolute;
   tiop:0;
@@ -2497,3 +2509,127 @@
 
 
 /**** end product-page ***/
+
+
+/**** before-after ***/
+.section-before-after{
+  position:relative;
+  z-index:0;
+  padding: 30px 0 clamp(75px,10.052vw,193px) 0;
+}
+.section-before-after .name{
+  display:flex;
+  justify-content:center;
+  margin-bottom:55px;
+}
+.section-before-after .name span{
+  display:inline-block;
+  padding-bottom:10px;
+  position:relative;
+}
+.section-before-after .title{
+  margin-bottom:25px;
+  
+}
+.section-before-after .title h2{
+  text-align:center;
+  margin:0;
+}
+.section-before-after .name span:before{
+  content:'';
+  position:absolute;
+  left:50%;
+  transform:translateX(-50%);
+  bottom:0;
+  width:18px;
+  height:2px;
+  opacity: 0.2;
+  background: #FFF;
+}
+.section-before-after .img-bg{
+  position:absolute;
+  top:0;
+  left:0;
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  z-index:-1;
+}
+.ab-image{
+  max-width:600px;
+  display:flex;
+  
+  margin:0 auto;
+  gap:2%;
+}
+.ab-image img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+.ab-item{
+  width:49%;
+  position:relative;
+  
+}
+.ab-item .text{
+  position:absolute;
+  bottom:20px;
+  left:0;
+  width:100%;
+  text-align:center;
+}
+.ab-item .text p{
+  color: #FFF;
+  text-align: center;
+  /* Headline 2 */
+  font-family: El Messiri;
+  font-size: clamp(28px,1.875vw,36px);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 36px */
+}
+.section-before-after .mobile-btn{
+  display:none;
+}
+@media (max-width:767px){
+  .section-before-after{
+    padding: 50px 0;
+  }
+}
+@media (max-width:500px){
+  .ab-image{
+   
+    gap:0%;
+  }
+  .ab-item{
+    width:50%;
+    position:relative;
+    
+  }
+  .section-before-after .mobile-btn{
+    display:flex;
+    justify-content:center;
+    margin-top:20px;
+  }
+  .section-before-after .mobile-btn .a-btn{
+    border:1px solid #FFF;
+    color:#FFF;
+  }
+  .ab-item .text p{
+    color: #00463F;
+    
+  }
+  .ab-item .text{
+    padding:0 15px;
+  }
+  .after.ab-item .text p{
+    text-align:right;
+  }
+  .before.ab-item .text p{
+    text-align:left;
+  }
+}
+/***  end ****/
